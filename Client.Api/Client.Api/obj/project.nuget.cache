@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lwPMjkx52clpXj2CSXVYBXLlcDE1aVeko3qDgtQVFkWOWu9lj/dLtZ/AvPgbhjnGGRuvYZUU8NLMsuStoFjd0Q==",
+  "dgSpecHash": "dQ9xX6lcBzXelMTJlw0Wl9Y1441RjOzqdKtKAEiVAcyrsX4mfV5w4dBcg02pGcCJ3YMJqpC1e4rYT8+9ZM5y8w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Net Core\\MarquesaProjects\\Client.Api\\Client.Api\\Client.Api.csproj",
+  "projectFilePath": "C:\\Projects\\Net Core\\MarquesaProjects\\MarquesaClientApi\\Client.Api\\Client.Api\\Client.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jembr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jembr\\.nuget\\packages\\mapster\\7.4.0-pre03\\mapster.7.4.0-pre03.nupkg.sha512",
